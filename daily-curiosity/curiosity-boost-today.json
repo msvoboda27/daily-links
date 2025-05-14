@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Investing & Retirement",
+    "title": "Understanding Asset Allocation for Long-Term Growth",
+    "url": "https://www.schwab.com/learn/story/understanding-asset-allocation",
+    "summary": "A Schwab article explaining the importance of asset allocation in building a diversified investment portfolio for retirement and other long-term goals."
+  },
+  {
+    "category": "Real Estate & Home Ownership",
+    "title": "First-Time Homebuyer's Guide: Navigating the Process",
+    "url": "https://www.nerdwallet.com/article/mortgages/first-time-home-buyer-tips",
+    "summary": "A NerdWallet guide outlining the key steps and considerations for individuals looking to buy their first home."
+  },
+  {
+    "category": "Fantasy Baseball",
+    "title": "Strategies for a Winning Fantasy Baseball Draft",
+    "url": "https://www.espn.com/fantasy/baseball/story/_/id/39786231/2024-fantasy-baseball-draft-strategy-tips-rankings-sleepers-busts",
+    "summary": "An ESPN article providing insights and strategies to help you have a successful fantasy baseball draft."
+  },
+  {
+    "category": "Health & Fitness",
+    "title": "The Benefits of Regular Exercise for Physical and Mental Health",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389",
+    "summary": "A Mayo Clinic overview of the numerous physical and mental health benefits associated with regular exercise."
+  },
+  {
+    "category": "Productivity & Task Management",
+    "title": "Getting Things Done (GTD): A Beginner's Guide",
+    "url": "https://todoist.com/productivity-methods/getting-things-done",
+    "summary": "A comprehensive guide from Todoist explaining the core principles of David Allen's popular Getting Things Done (GTD) productivity methodology."
+  },
+  {
+    "category": "Automation & Scripts",
+    "title": "Introduction to Basic Python Scripting for Automation",
+    "url": "https://realpython.com/learn/python-first-steps/",
+    "summary": "A beginner-friendly tutorial from Real Python that introduces the fundamentals of Python scripting for automating simple tasks."
+  },
+  {
+    "category": "Excel & Power BI Tips",
+    "title": "5 Essential Excel Shortcuts to Boost Your Efficiency",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/excel/excel-tips",
+    "summary": "A Microsoft resource highlighting five key Excel shortcuts that can significantly improve your speed and efficiency."
+  },
+  {
+    "category": "Learning & Personal Growth",
+    "title": "The Importance of Lifelong Learning and How to Cultivate It",
+    "url": "https://www.opencolleges.edu.au/careers/blog/importance-lifelong-learning",
+    "summary": "An article discussing the benefits of continuous learning throughout life and offering practical tips on how to make it a habit."
+  },
+  {
+    "category": "Prompt Engineering",
+    "title": "A Beginner's Guide to Effective Prompting for Language Models",
+    "url": "https://www.promptingguide.ai/",
+    "summary": "A comprehensive guide introducing the fundamental principles and techniques for writing effective prompts for large language models."
+  },
+  {
+    "category": "Tech & Tools",
+    "title": "10 Essential Tech Tools for Remote Work and Collaboration",
+    "url": "https://zapier.com/blog/best-remote-work-tools/",
+    "summary": "A Zapier blog post highlighting ten key technology tools that can enhance productivity and collaboration for remote teams and individuals."
+  },
+  {
+    "category": "Writing & Communication",
+    "title": "The Elements of Style: Essential Rules for Clear Writing",
+    "url": "https://www.thoughtco.com/elements-of-style-by-strunk-and-white-1692077",
+    "summary": "An overview of the key principles for clear and effective writing based on the classic guide 'The Elements of Style' by Strunk and White."
+  },
+  {
+    "category": "Travel – Europe Highlights & Tips",
+    "title": "Europe for First-Timers: Essential Travel Tips and Top Destinations",
+    "url": "https://www.ricksteves.com/travel-tips/trip-planning/first-time-in-europe",
+    "summary": "Rick Steves' guide for first-time travelers to Europe, offering essential tips on planning and highlighting some of the best destinations to visit."
+  }
+]

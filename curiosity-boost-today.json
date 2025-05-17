@@ -1,0 +1,74 @@
+[
+  {
+    "category": "Investing & Retirement",
+    "title": "Understanding Asset Allocation for Long-Term Growth",
+    "summary": "A Schwab article explaining the importance of asset allocation in building a diversified investment portfolio.",
+    "url": "https://www.schwab.com/learn/story/understanding-asset-allocation"
+  },
+  {
+    "category": "Real Estate & Home Ownership",
+    "title": "How to Buy a House in 2025: The Complete Guide",
+    "summary": "NerdWallet breaks down the homebuying process with updated tips for the 2025 housing market.",
+    "url": "https://www.nerdwallet.com/article/mortgages/how-to-buy-a-house"
+  },
+  {
+    "category": "Fantasy Baseball",
+    "title": "2025 Fantasy Baseball Risers and Fallers",
+    "summary": "CBS Sports highlights players to watch based on recent performance trends and matchup data.",
+    "url": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-2025-weekly-risers-fallers/"
+  },
+  {
+    "category": "Health & Fitness",
+    "title": "The Benefits of Regular Exercise for Physical and Mental Health",
+    "summary": "A Mayo Clinic overview of the numerous physical and mental health benefits associated with regular exercise.",
+    "url": "https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/exercise/art-20048389"
+  },
+  {
+    "category": "Productivity & Task Management",
+    "title": "Getting Things Done (GTD): A Beginner's Guide",
+    "summary": "A comprehensive guide from Todoist explaining the core principles of David Allen\u2019s popular GTD methodology.",
+    "url": "https://todoist.com/productivity-methods/getting-things-done"
+  },
+  {
+    "category": "Automation & Scripts",
+    "title": "Introduction to Basic Python Scripting for Automation",
+    "summary": "A beginner-friendly tutorial from Real Python that introduces the fundamentals of Python scripting for automating tasks.",
+    "url": "https://realpython.com/python-first-steps/"
+  },
+  {
+    "category": "Excel, Dashboards & Power BI Tips",
+    "title": "5 Essential Excel Shortcuts to Boost Your Efficiency",
+    "summary": "A Microsoft resource highlighting five key Excel shortcuts that can significantly improve your speed and efficiency.",
+    "url": "https://support.microsoft.com/en-us/office/excel-keyboard-shortcuts-1798d9d5-842a-42b8-9c99-9b7213f0040f"
+  },
+  {
+    "category": "Learning & Personal Growth",
+    "title": "How to Build a Reading Habit That Sticks",
+    "summary": "James Clear shares powerful strategies to develop and maintain a daily reading habit that supports personal growth.",
+    "url": "https://jamesclear.com/reading-habit"
+  },
+  {
+    "category": "Prompt Engineering",
+    "title": "A Beginner\u2019s Guide to Effective Prompting for Language Models",
+    "summary": "A comprehensive guide introducing fundamental techniques for writing better prompts for LLMs like GPT-4.",
+    "url": "https://www.promptingguide.ai"
+  },
+  {
+    "category": "Tech & Tools",
+    "title": "10 Best Android Apps You Didn\u2019t Know You Needed in 2025",
+    "summary": "This roundup highlights underrated apps for productivity, customization, and daily utility.",
+    "url": "https://www.androidauthority.com/best-android-apps-2025-3246341/"
+  },
+  {
+    "category": "Writing & Communication",
+    "title": "The Elements of Style: Essential Rules for Clear Writing",
+    "summary": "An overview of the key principles for clear and effective writing from the classic Strunk & White guide.",
+    "url": "https://www.bartleby.com/141/"
+  },
+  {
+    "category": "Travel \u2013 Europe Highlights & Tips",
+    "title": "Hidden Hilltop Villages in Tuscany Worth Visiting",
+    "summary": "These scenic towns offer wine, views, and peace without the tourist traps.",
+    "url": "https://www.lonelyplanet.com/articles/hidden-tuscany-villages-2025"
+  }
+]
